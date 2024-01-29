@@ -4,7 +4,8 @@ Foi o segundo projeto desenvolvido durante o curso Iniciante em Programação do
 
 ## Imagem final do projeto
 
-![image](https://github.com/miguelfmds/projeto-portfolio/assets/157380435/b0d25a0d-9be5-43b2-8be6-36e69e097bdb)
+![image](https://github.com/miguelfmds/projeto-portfolio/assets/157380435/d4c4d06e-637e-46f5-be69-ebda6e0fee62)
+
 
 
 ### Tecnologias utilizadas
